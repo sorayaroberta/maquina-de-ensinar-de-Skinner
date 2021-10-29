@@ -1,5 +1,5 @@
 # maquina-de-ensinar-de-Skinner
-Este repositório tem como objetivo demonstrar como funciona o modelo didático do teórico Burrhus Frederic Skinner
+Este repositório tem como objetivo demonstrar como funciona o modelo didático do teórico Burrhus Frederic Skinner. A proposta foi baseada no projeto da [UFRGS](https://www.ufrgs.br/psicoeduc/maquina-de-ensinar/)
 
 ## Rodando via Python no seu computador
 
